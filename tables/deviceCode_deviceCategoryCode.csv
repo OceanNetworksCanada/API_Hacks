@@ -1,4 +1,4 @@
-DeviceCode,DeviceCategoryCode,DeviceCategoryName
+deviceCode,deviceCategoryCode,deviceCategoryName
 3DTEMPARRAY01,TARRAY,Temperature Array
 AA02_3830_910,OXYSENSOR,Oxygen Sensor
 AANDERAA3830SN871,OXYSENSOR,Oxygen Sensor
